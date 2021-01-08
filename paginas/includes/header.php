@@ -75,7 +75,77 @@
                                 </div>
                             </li>
                         </ul>
+                    
                 </div>
+        
+            </nav>
+            <br />
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Inicio</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=servicos">serviços</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Produtos</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contato</a> </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+                    </form>
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Área Administrativa</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="?pg=login">Login</a>
+                                    <a class="dropdown-item" href="?pg=login2">Login2</a>
+                                    <a class="dropdown-item" href="?pg=login3">Login3</a>
+                                    <a class="dropdown-item" href="?pg=login4">Login4</a>
+                                    <!--manusouza-->   
+                                </div>
+                            </li>
+                        </ul>
+                    
+                </div>
+        
+            </nav>
+            <br />
+            <nav class="navbar navbar-expand-lg navbar-success bg-success">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active"><a class="nav-link" href="?pg=inicio">Inicio</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=sobre">Sobre</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=servicos">serviços</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=produtos">Produtos</a> </li>
+                        <li class="nav-item active"><a class="nav-link" href="?pg=contato">Contato</a> </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+                    </form>
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Área Administrativa</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="?pg=login">Login</a>
+                                    <a class="dropdown-item" href="?pg=login2">Login2</a>
+                                    <a class="dropdown-item" href="?pg=login3">Login3</a>
+                                    <a class="dropdown-item" href="?pg=login4">Login4</a>
+                                    <!--manusouza-->   
+                                </div>
+                            </li>
+                        </ul>
+                    
+                </div>
+        
             </nav>
             <!--fim da navegação-->
 
