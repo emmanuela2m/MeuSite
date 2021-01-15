@@ -1,8 +1,7 @@
 <?php
 
 //Meu código PHP vem aqui.khjgvbjhgv
-
-//Manu meu amorrrrrrrrr!!!
+//Manu meu amorrrrrrrrr!!! OW OW OW OW!!!!
 
 $pg = isset($_GET['pg']);
 
